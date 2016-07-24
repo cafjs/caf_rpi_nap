@@ -1,0 +1,22 @@
+{
+    "name": "caf_rpi_nap",
+    "description": "Cloud Assistant library to shutdown, and restart after certain time, a RPi+WittyPi combo",
+    "version": "0.2.1",
+    "author": "Antonio Lain <antlai@cafjs.com>",
+    "dependencies": {
+        "i2c-bus": "^1.0.2"
+    },
+    "devDependencies": {
+        "nodeunit" : ">=0.9"
+    },
+    "main": "index",
+    "homepage": "http://www.cafjs.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cafjs/caf_rpi_nap.git"
+    },
+    "scripts": {
+        "test": "node ./node_modules/.bin/nodeunit"
+    },
+    "engines": { "node": ">= 0.10.1 " }
+}
