@@ -1,10 +1,10 @@
-# CAF (Cloud Assistant Framework)
+# Caf.js
 
 Co-design permanent, active, stateful, reliable cloud proxies with your web app or gadget.
 
-See http://www.cafjs.com
+See https://www.cafjs.com
 
-## CAF RPI NAP
+## Raspberry Pi Library for Power Management
 
 This library shutdowns and restarts after certain time a RPi+WittyPi combo.
 
